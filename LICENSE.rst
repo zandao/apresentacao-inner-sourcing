@@ -25,6 +25,6 @@ Learn more about CC licensing, or use the license for your own material.
 |
 |
 
-*A licença original pode ser encontrada em `Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.*
+*A licença original pode ser encontrada em `Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_ *
 
 
